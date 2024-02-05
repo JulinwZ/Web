@@ -1,0 +1,22 @@
+.leading{
+    display: flex;
+    width: 1273px;
+    height: 477px;
+    margin-left: 135px;
+    margin-top: 220px;
+}
+
+.leading_info{
+    margin-left: 142px;
+}
+
+#leading_describe{
+    text-align: start;
+    width: 440px;
+}
+
+#leading_balls{
+    position: absolute;
+    top: 2700px;
+    right: -75px;
+}

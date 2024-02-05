@@ -1,0 +1,27 @@
+.mobileapps{
+    display: flex;
+    width: 1273px;
+    height: 477px;
+    margin-left: 135px;
+    margin-top: 220px;
+}
+
+.mobileapps_info{
+    margin-left: 142px;
+}
+
+#mobileapps_describe{
+    text-align: start;
+    width: 350px;
+}
+
+.mobileapps_info .title{
+    width: 254px;
+}
+
+.mobileapps_info .button::after {
+    content: '\2193';
+    font-size: 18px;
+    margin-left: 15px;
+    font-family: Muli-Bold;
+}

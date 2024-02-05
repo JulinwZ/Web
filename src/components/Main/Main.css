@@ -1,0 +1,33 @@
+#main_balls {
+    margin-top: 63px;
+}
+
+.header-description {
+    display: flex;
+}
+
+.header-text-description {
+    padding-left: 81px;
+    padding-top: 186px;
+    width: 427px;
+    height: 338px;
+}
+
+.header_photo {
+    padding-left: 127px;
+    padding-top: 84px;
+    width: 693px;
+    height: 598px;
+}
+
+.bold_text {
+    color: var(--black);
+    font-weight: bold;
+    font-size: 48px;
+    font-family: Muli-Bold;
+}
+
+.gray_text {
+    color: var(--gray-color);
+    font-size: 21px;
+}

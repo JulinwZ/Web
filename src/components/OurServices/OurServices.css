@@ -1,0 +1,76 @@
+.OurServices {
+    display: flex;
+    align-items: center;
+    margin-top: 168px;
+    flex-direction: column;
+}
+
+.title {
+    font-family: Muli-Bold;
+    font-size: 36px;
+}
+
+.service_describe {
+    color: var(--gray-color);
+    margin-top: 33px;
+    width: 900px;
+    text-align: center;
+}
+
+.cards {
+    margin-top: 80px;
+    width: 1160px;
+    height: 745px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    position: relative;
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: var(--white);
+    box-shadow: 10px 40px 20px var(--shadow);
+    margin-right: 34px;
+}
+
+.card-photo{
+    margin-left: 40px;
+    margin-top: 60px;
+}
+
+.operation {
+    margin-left: 40px;
+    margin-top: 22px;
+    font-family: Muli-Bold;
+    font-size: 24px;
+}
+
+.details {
+    margin-left: 40px;
+    color: var(--gray-color);
+    width: 276px;
+    font-size: 16;
+}
+
+.blue{
+    z-index: -1;
+    top: 1200px;
+    right: 850px;
+    position: absolute;
+    width: 837px;
+    height: 571px;
+}
+
+#white_button{
+    color: var(--circle-logo-color);
+    background-color: var(--white);
+    border: 1px solid var(--circle-logo-color);
+}
+
+#OurServices_balls{
+    position: absolute;
+    top: 1525px;
+    right: 145px;
+}
